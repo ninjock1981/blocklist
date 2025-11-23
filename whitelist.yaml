@@ -31,3 +31,5 @@
   - url: "*.surge.sh"
   - url: revoke.cash
   - url: nftplus.io
+  - url: "os-labs.xyz"
+  description: "Legitimate OS Labs project. False positive removal."
